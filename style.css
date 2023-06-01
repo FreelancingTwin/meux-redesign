@@ -10,10 +10,10 @@
 }
 
 .tickets{
-  background-repeat: repeat;
-  background-size: cover;
   max-width: 480px;
   width: 70%;
+  font-size: 2rem;
+  
 }
 
 @keyframes changeBackgroundClip{
@@ -53,10 +53,7 @@ body{
   align-items: center;
   padding-left: .5rem;
 }
-.tickets{
-  background-image: url('https://media.gettyimages.com/id/996199692/photo/cormorants-in-flight-essoauira-morocco.jpg?s=612x612&w=0&k=20&c=i1lpUlkTiUi5FDQBihqU3sCXM57ylExdJvFmKcwVGVE=') ;
-  font-size: 2rem;
-}
+
 
 .intro{
   /* margin-right: 1rem; */
